@@ -1,2 +1,2 @@
 # DaysOfCodingProjects
-Python coding projects
+Python coding bootcamp projects
